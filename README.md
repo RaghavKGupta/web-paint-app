@@ -1,4 +1,4 @@
-# A paint for the web
+# Paint for the web
 Just a normal doodling tool in HTML made using Javascript. It uses hex color coding as well as their names in english. You can switch colors as well.
 
 ### Demo
